@@ -21,6 +21,6 @@ A simple Java console application that demonstrates CRUD (Create, Read, Update, 
 ## How to Run
 
 1. Clone this repository or download the source code.
-2. Compile the `Main.java` file:
+2. Compile the `EcommerceApp.java` file:
    ```bash
-   javac Main.java
+   javac EcommerceApp.java
